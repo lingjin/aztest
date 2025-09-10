@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6c3f91eb-21be-4ebf-ac2d-410faddb8cba/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/my-node-demo-2024",
+    "appService.deploySubpath": "azuresvr"
+}
