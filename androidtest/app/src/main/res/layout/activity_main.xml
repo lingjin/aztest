@@ -42,7 +42,7 @@
                         android:layout_height="wrap_content"
                         android:hint="Base URL (e.g., https://your-app.azurewebsites.net)"
                         android:inputType="textUri"
-                        android:text="https://your-app-name.azurewebsites.net" />
+                        android:text="https://my-node-demo-2024-c4avgsdvhcevabb5.centralus-01.azurewebsites.net/" />
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <Button
